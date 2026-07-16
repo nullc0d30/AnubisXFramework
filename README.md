@@ -6,7 +6,7 @@
 
 **A Scientific Methodology for Behavioral Identity Attribution**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21374132-blue)](https://doi.org/10.5281/zenodo.21374132)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21393392-blue)](https://doi.org/10.5281/zenodo.21393392)
 [![Version](https://img.shields.io/badge/Version-2.0.0--Journal%20Revision-brightgreen)](RELEASE_NOTES_v2.0.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Release](https://img.shields.io/badge/GitHub-Release-blueviolet)](https://github.com/nullc0d30/AnubisXFramework/releases)
@@ -22,7 +22,7 @@
 
 The AnubisX Framework is a formal scientific methodology for determining the identity of a human operator from their digital behavioral patterns. Unlike traditional attribution methods that rely on transient technical artifacts — IP addresses, device fingerprints, browser configurations — the framework measures **persistent human cognitive signatures** that are rooted in stable cognitive processing habits.
 
-**DOI:** [10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 **Repository:** [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)
 
@@ -156,7 +156,7 @@ See [Journal/](Journal/) for all journal-related materials.
 | Resource | Link |
 |---|---|
 | **GitHub Repository** | [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework) |
-| **Zenodo Archive** | [https://doi.org/10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132) |
+| **Zenodo Archive** | [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
 | **ORCID** | [https://orcid.org/0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
 | **LinkedIn** | [https://www.linkedin.com/in/nullc0d3/](https://www.linkedin.com/in/nullc0d3/) |
 | **Reference Book** | [You Can Hide Your Name... Not Your Mind](https://www.amazon.com/dp/B0H8LCTTWW) |
@@ -211,7 +211,7 @@ If you use the AnubisX Framework in your research, please cite:
   year = {2026},
   version = {2.0.0},
   url = {https://github.com/nullc0d30/AnubisXFramework},
-  doi = {10.5281/zenodo.21374132},
+  doi = {10.5281/zenodo.21393392},
   license = {CC-BY-4.0}
 }
 ```
@@ -238,7 +238,7 @@ This work is licensed under [Creative Commons Attribution 4.0 International](LIC
 **Primary Author**: Ahmed Awad (NullC0d3)  
 **Author Profile**: [https://www.linkedin.com/in/nullc0d3/](https://www.linkedin.com/in/nullc0d3/)  
 **Repository**: [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)  
-**DOI**: [https://doi.org/10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.  
 Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated. Third-party software, libraries, datasets, and referenced works remain the property of their respective owners and are governed by their own licenses.

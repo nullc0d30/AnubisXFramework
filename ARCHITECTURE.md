@@ -265,7 +265,7 @@ The validated prototype (Anubis Twitter v2.5) implements a subset of the full si
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.  
 Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated. Third-party software, libraries, datasets, and referenced works remain the property of their respective owners and are governed by their own licenses.
 
-**DOI**: https://doi.org/10.5281/zenodo.21374132
+**DOI**: https://doi.org/10.5281/zenodo.21393392
 
 ---
 

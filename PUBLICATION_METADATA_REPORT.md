@@ -1,6 +1,6 @@
 # Publication Metadata Report
 
-**AnubisX Framework v2.0.0 — DOI: 10.5281/zenodo.21374132**
+**AnubisX Framework v2.0.0 — DOI: 10.5281/zenodo.21393392**
 
 ---
 
@@ -8,8 +8,8 @@
 
 | Field | Value |
 |-------|-------|
-| **DOI** | 10.5281/zenodo.21374132 |
-| **Persistent URL** | https://doi.org/10.5281/zenodo.21374132 |
+| **DOI** | 10.5281/zenodo.21393392 |
+| **Persistent URL** | https://doi.org/10.5281/zenodo.21393392 |
 | **Version** | 2.0.0 |
 | **Release Date** | 2026-07-15 |
 | **License** | CC-BY-4.0 |
@@ -27,21 +27,21 @@
   title = {AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution},
   year = {2026},
   url = {https://github.com/anubisx/framework},
-  doi = {10.5281/zenodo.21374132}
+  doi = {10.5281/zenodo.21393392}
 }
 ```
 
 ### APA Style
 
-Awad, A. (2026). *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution* (v2.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21374132
+Awad, A. (2026). *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution* (v2.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21393392
 
 ### MLA Style
 
-Awad, Ahmed. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0, Zenodo, 2026, doi:10.5281/zenodo.21374132.
+Awad, Ahmed. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0, Zenodo, 2026, doi:10.5281/zenodo.21393392.
 
 ### Chicago Style
 
-Awad, Ahmed. 2026. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0. Zenodo. doi:10.5281/zenodo.21374132.
+Awad, Ahmed. 2026. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0. Zenodo. doi:10.5281/zenodo.21393392.
 
 ---
 
@@ -57,7 +57,7 @@ type: software
 version: 2.0.0
 date-released: 2026-07-15
 url: "https://github.com/nullc0d30/AnubisXFramework"
-doi: "10.5281/zenodo.21374132"
+doi: "10.5281/zenodo.21393392"
 license: "CC-BY-4.0"
 ```
 

@@ -3,7 +3,7 @@
 **Date:** July 16, 2026  
 **Version:** 2.0.0 — Journal Research Edition  
 **Classification:** PUBLIC (C0)  
-**DOI:** [10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 ---
 
@@ -12,7 +12,7 @@
 | Platform | Type | Identifier | Status |
 |---|---|---|---|
 | **GitHub** | Source code repository | [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework) | Published |
-| **Zenodo** | DOI archive | [10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132) | Published |
+| **Zenodo** | DOI archive | [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) | Published |
 | **ORCID** | Author identifier | https://orcid.org/0009-0005-0654-3393 | Registered |
 | **OpenAIRE** | Research output aggregation | Post-registration | Planned |
 
@@ -82,7 +82,7 @@
 **Project**: AnubisX Framework  
 **Primary Author**: Ahmed Awad (NullC0d3)  
 **Repository**: [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)  
-**DOI**: [https://doi.org/10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.
 

@@ -185,7 +185,7 @@ This directory documents all 12 tables used by the AnubisX Framework foundationa
 **Project**: AnubisX Framework  
 **Primary Author**: Ahmed Awad (NullC0d3)  
 **Repository**: [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)  
-**DOI**: [https://doi.org/10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.
 

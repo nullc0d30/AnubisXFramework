@@ -3,7 +3,7 @@
 **Version:** 2.0.0 — Journal Research Edition  
 **Date:** July 16, 2026  
 **Classification:** PUBLIC (C0)  
-**DOI:** [10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 ---
 
@@ -76,7 +76,7 @@
 | **GitHub** | CONTRIBUTING | Complete | Contribution guidelines |
 | **GitHub** | CODE_OF_CONDUCT | Complete | Community standards |
 | **GitHub** | SECURITY | Complete | Security policy |
-| **Zenodo** | DOI Registration | Complete | 10.5281/zenodo.21374132 |
+| **Zenodo** | DOI Registration | Complete | 10.5281/zenodo.21393392 |
 | **ORCID** | Author Registration | Complete | https://orcid.org/0009-0005-0654-3393 |
 | **OpenAIRE** | OpenAIRE Integration | Planned | Post-publication |
 | **Publication** | Foundational Paper v2.0 | Complete | 18 sections, 12 tables, 50 references |
@@ -139,7 +139,7 @@
 **Project**: AnubisX Framework  
 **Primary Author**: Ahmed Awad (NullC0d3)  
 **Repository**: [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)  
-**DOI**: [https://doi.org/10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.
 

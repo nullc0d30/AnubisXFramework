@@ -89,7 +89,7 @@ All 14 concerns from the initial reviewer response report have been addressed:
 | SN Computer Science (Springer) | Journal | Computer science, security, AI | Medium |
 | Frontiers in Computer Science | Open access journal | AI, security, digital forensics | Medium |
 
-**DOI**: https://doi.org/10.5281/zenodo.21374132
+**DOI**: https://doi.org/10.5281/zenodo.21393392
 
 ## Final Verdict
 

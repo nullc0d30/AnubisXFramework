@@ -1,6 +1,6 @@
 # Final Citation Report
 
-**AnubisX Framework v1.0.0 — DOI: 10.5281/zenodo.21374132**
+**AnubisX Framework v1.0.0 — DOI: 10.5281/zenodo.21393392**
 
 ---
 
@@ -79,7 +79,7 @@
 To verify DOI presence in all markdown files:
 
 ```bash
-grep -l "10.5281/zenodo.21374132" Documentation/*.md Whitepaper/*.md Getting_Started/*.md FAQ/*.md API_Docs/*.md
+grep -l "10.5281/zenodo.21393392" Documentation/*.md Whitepaper/*.md Getting_Started/*.md FAQ/*.md API_Docs/*.md
 ```
 
 ---

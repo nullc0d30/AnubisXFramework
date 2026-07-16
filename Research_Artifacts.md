@@ -3,7 +3,7 @@
 **Version:** 2.0.0 — Journal Research Edition  
 **Date:** July 16, 2026  
 **Classification:** PUBLIC (C0)  
-**DOI:** [10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 ---
 
@@ -154,8 +154,8 @@ This document catalogs all research artifacts associated with the AnubisX Framew
 
 | Property | Value |
 |---|---|
-| DOI | 10.5281/zenodo.21374132 |
-| Persistent URL | https://doi.org/10.5281/zenodo.21374132 |
+| DOI | 10.5281/zenodo.21393392 |
+| Persistent URL | https://doi.org/10.5281/zenodo.21393392 |
 | Archive | Zenodo |
 | Version | 2.0.0 |
 
@@ -164,7 +164,7 @@ This document catalogs all research artifacts associated with the AnubisX Framew
 **Project**: AnubisX Framework  
 **Primary Author**: Ahmed Awad (NullC0d3)  
 **Repository**: [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)  
-**DOI**: [https://doi.org/10.5281/zenodo.21374132](https://doi.org/10.5281/zenodo.21374132)
+**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
 
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.
 

@@ -12,7 +12,7 @@ authors:
 
 repository-code: "https://github.com/nullc0d30/AnubisXFramework"
 
-doi: "10.5281/zenodo.21374132"
+doi: "10.5281/zenodo.21393392"
 
 license: "CC-BY-4.0"
 
@@ -23,7 +23,7 @@ preferred-citation:
     - name: "Awad, Ahmed"
   year: 2026
   version: "2.0.0"
-  doi: "10.5281/zenodo.21374132"
+  doi: "10.5281/zenodo.21393392"
   url: "https://github.com/nullc0d30/AnubisXFramework"
   journal: "TBD (under review preparation)"
 
