@@ -18,15 +18,17 @@
 
 ---
 
-## Project Overview
+## Research Identity
 
 The AnubisX Framework is a formal scientific methodology for determining the identity of a human operator from their digital behavioral patterns. Unlike traditional attribution methods that rely on transient technical artifacts — IP addresses, device fingerprints, browser configurations — the framework measures **persistent human cognitive signatures** that are rooted in stable cognitive processing habits.
 
-**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
-
+**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)  
 **Repository:** [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)
+
+[**ACADEMIC_PROFILE**](ACADEMIC.md) | [**PUBLICATIONS**](PUBLICATIONS.md) | [**RESEARCH_NETWORK**](RESEARCH_NETWORK.md) | [**CITATIONS**](CITATIONS.md) | [**PROJECT_IDENTIFIERS**](PROJECT_IDENTIFIERS.md)
+
 **Original Framework**: Ahmed Awad (NullC0d3)  
-**Original Research**: Ahmed Awad (NullC0d3)  
+**Original Research**: Ahmed Awad (NullC0d3)
 
 ---
 
@@ -41,7 +43,7 @@ The framework addresses three specific limitations:
 
 ---
 
-## Repository Structure
+## Repository Overview
 
 | Directory | Contents |
 |---|---|
@@ -139,17 +141,37 @@ Ingestion → Feature Extraction → Profile Construction → Comparison → Evi
 
 ---
 
-## Journal Version Information
+## Repository Timeline
 
-This repository contains the **v2.0 Journal Revision** of the AnubisX Framework, prepared for submission to peer-reviewed venues. Key improvements from v1.0:
+| Year | Milestone |
+|---|---|
+| 2023 | Axiomatic foundation, initial framework design |
+| 2024 | Whitepaper completion, Anubis Twitter v2.0 release, Reference book publication |
+| 2025 | Prototype v2.5 validation, 15 experiments on Egyptian Twitter data |
+| 2026 | Journal revision v2.0, Zenodo DOI assigned, publication preparation |
 
-- Expanded from 19 to 50 references (62% external)
-- New sections: Practical Implications, Summary of Contributions, Reproducibility
-- Expanded Related Work (6 to 11 subsections)
-- Enhanced limitations documentation with mitigation pathways
-- Complete publication readiness assessed at 8.5/10
+---
 
-See [Journal/](Journal/) for all journal-related materials.
+## Persistent Identifiers
+
+| Platform | Identifier |
+|---|---|
+| **DOI** | [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
+| **ORCID** | [0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
+| **GitHub** | [nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework) |
+| **See also:** | [PROJECT_IDENTIFIERS.md](PROJECT_IDENTIFIERS.md) |
+
+---
+
+## Research Citation Network
+
+The framework is integrated into academic infrastructure through:
+
+```
+GitHub → Zenodo → OSF → ResearchGate → Figshare → SSRN → Journal Publication → Google Scholar → Crossref → OpenAlex
+```
+
+See [RESEARCH_NETWORK.md](RESEARCH_NETWORK.md) for the complete ecosystem visualization.
 
 ---
 
@@ -161,15 +183,96 @@ See [Journal/](Journal/) for all journal-related materials.
 | **Zenodo Archive** | [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
 | **ORCID** | [https://orcid.org/0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
 | **LinkedIn** | [https://www.linkedin.com/in/nullc0d3/](https://www.linkedin.com/in/nullc0d3/) |
+| **ResearchGate** | [Profile](https://www.researchgate.net/profile/Ahmed-Awad-NullC0d3) |
 | **Reference Book** | [You Can Hide Your Name... Not Your Mind](https://www.amazon.com/dp/B0H8LCTTWW) |
-| **Citation** | [CITATION.cff](CITATION.cff) |
-| **License** | [LICENSE.md](LICENSE.md) |
-| **Roadmap** | [ROADMAP_v2.md](ROADMAP_v2.md) |
-| **Changelog** | [CHANGELOG.md](CHANGELOG.md) |
-| **Contributing** | [CONTRIBUTING.md](CONTRIBUTING.md) |
-| **Code of Conduct** | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) |
-| **Security** | [SECURITY.md](SECURITY.md) |
-| **FAQ** | [FAQ/README.md](FAQ/README.md) |
+
+---
+
+## Publication History
+
+| Publication | Status | Link |
+|---|---|---|
+| Foundational Paper (v2.0) | Journal-ready | [PUBLICATIONS.md](PUBLICATIONS.md) |
+| Whitepaper | Complete | [Whitepaper/](Whitepaper/) |
+| Reference Book (2024) | Published | [Amazon B0H8LCTTWW](https://www.amazon.com/dp/B0H8LCTTWW) |
+
+---
+
+## Open Science
+
+The AnubisX Framework is committed to open science principles:
+
+- ✅ **Open Access** — CC BY 4.0 license for all materials
+- ✅ **Reproducibility** — Complete experimental pipeline documented
+- ✅ **Transparency** — All limitations and failure modes disclosed
+- ✅ **Data Availability** — 15 experiments with full results provided
+- ✅ **Software Availability** — Prototype implementation included
+- ✅ **Long-term Preservation** — Zenodo archival with DOI
+
+See [OPEN_SCIENCE.md](OPEN_SCIENCE.md) for the complete open science statement.
+
+---
+
+## How to Cite
+
+If you use the AnubisX Framework in your research, please cite:
+
+```bibtex
+@software{anubisx2026framework,
+  title = {AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution},
+  author = {Awad, Ahmed},
+  year = {2026},
+  version = {2.0.0},
+  url = {https://github.com/nullc0d30/AnubisXFramework},
+  doi = {10.5281/zenodo.21393392},
+  license = {CC-BY-4.0}
+}
+```
+
+Full citation examples in [CITATIONS.md](CITATIONS.md).
+
+---
+
+## Academic Profiles
+
+| Platform | Profile |
+|---|---|
+| ORCID | [0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
+| LinkedIn | [/in/nullc0d3](https://www.linkedin.com/in/nullc0d3/) |
+| ResearchGate | [/profile/Ahmed-Awad-NullC0d3](https://www.researchgate.net/profile/Ahmed-Awad-NullC0d3) |
+| Figshare | [/authors/Ahmed_Awad_NullC0d3](https://figshare.com/authors/Ahmed_Awad_NullC0d3) |
+
+---
+
+## Repository Preservation
+
+- **Primary Archive:** [Zenodo DOI 10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+- **Secondary Archives:** GitHub, OSF (planned), Figshare
+- **Citation Metadata:** [CITATION.cff](CITATION.cff)
+- **Preservation Policy:** See [ACADEMIC.md](ACADEMIC.md)
+
+---
+
+## Scientific Contribution
+
+The framework advances behavioral identity attribution through:
+
+1. **Theoretical Innovation** — First comprehensive axiomatic foundation (31 axioms)
+2. **Methodological Rigor** — Formal validation with 33 acceptance thresholds
+3. **Technical Implementation** — Working prototype with FAISS similarity search
+4. **Empirical Evidence** — Validated on 31 real-world Twitter accounts
+
+---
+
+## Future Research
+
+- Additional behavioral modality implementations
+- Coordinated network analysis
+- Temporal profiling capabilities
+- Multi-modal inference engine
+- Peer-reviewed journal publication
+
+See [ROADMAP_v2.md](ROADMAP_v2.md) for detailed roadmap.
 
 ---
 
@@ -202,23 +305,19 @@ See [Journal/](Journal/) for all journal-related materials.
 
 ---
 
-## Citation
+## Related Publications
 
-If you use the AnubisX Framework in your research, please cite:
+| Publication | Link |
+|---|---|
+| Foundational Paper | [Journal/AnubisX_Framework_Foundational_Paper_v2.0.md](Journal/AnubisX_Framework_Foundational_Paper_v2.0.md) |
+| Whitepaper | [Whitepaper/AnubisX_Whitepaper.md](Whitepaper/AnubisX_Whitepaper.md) |
+| Reference Book | [You Can Hide Your Name... Not Your Mind](https://www.amazon.com/dp/B0H8LCTTWW) |
 
-```bibtex
-@software{anubisx2026framework,
-  title = {AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution},
-  author = {Awad, Ahmed},
-  year = {2026},
-  version = {2.0.0},
-  url = {https://github.com/nullc0d30/AnubisXFramework},
-  doi = {10.5281/zenodo.21393392},
-  license = {CC-BY-4.0}
-}
-```
+---
 
-Machine-readable citation metadata is available in [CITATION.cff](CITATION.cff).
+## Acknowledgements
+
+See [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for acknowledgments.
 
 ---
 
@@ -236,15 +335,8 @@ This work is licensed under [Creative Commons Attribution 4.0 International](LIC
 
 ---
 
-**Project**: AnubisX Framework  
-**Primary Author**: Ahmed Awad (NullC0d3)  
-**Author Profile**: [https://www.linkedin.com/in/nullc0d3/](https://www.linkedin.com/in/nullc0d3/)  
-**ORCID**: [https://orcid.org/0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393)  
-**Repository**: [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)  
-**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
-
-**Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.  
-Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated. Third-party software, libraries, datasets, and referenced works remain the property of their respective owners and are governed by their own licenses.
+**© 2026 Ahmed Awad (NullC0d3). All rights reserved.**  
+*Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated. Third-party software, libraries, datasets, and referenced works remain the property of their respective owners and are governed by their own licenses.*
 
 ---
 

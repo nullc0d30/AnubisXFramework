@@ -1,30 +1,37 @@
-# Open Science Policy — AnubisX Framework
+# Open Science Statement — AnubisX Framework
 
 **Version:** 2.0.0 — Journal Research Edition  
-**Date:** July 16, 2026  
+**Date:** July 18, 2026  
 *Classification: PUBLIC (C0)*
 
 ---
 
-## Commitment to Open Science
+## Executive Summary
 
-The AnubisX Framework is committed to the principles of open science: transparency, reproducibility, accessibility, and collaboration. This document outlines the framework's open science policies.
+The AnubisX Framework is committed to the principles of open science: **transparency, reproducibility, accessibility, and collaboration**. This document serves as the formal open science statement, providing a comprehensive declaration of our research practices and commitments.
 
 ---
 
-## Open Source Policy
+## Open Access
 
-The AnubisX Framework is released under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+The AnubisX Framework adheres to the **Creative Commons Attribution 4.0 International (CC BY 4.0)** open access license, ensuring barrier-free access to all research outputs.
+
+### License Terms
 
 | Right | Granted |
 |---|---|
-| Share | Copy and redistribute in any medium or format |
-| Adapt | Remix, transform, and build upon for any purpose |
-| Commercial use | Permitted with attribution |
+| **Share** | Copy and redistribute in any medium or format |
+| **Adapt** | Remix, transform, and build upon for any purpose |
+| **Commercial use** | Permitted with attribution |
 
-**Condition:** Attribution must be given to the original work with a link to the license and indication of changes.
+**Condition:** Attribution must be given to the original work with a link to the license and indication of changes. See [LICENSE.md](LICENSE.md) for complete terms.
 
-**License file:** [LICENSE.md](LICENSE.md)
+### Open Access Compliance
+
+- ✅ **Plan S Compliant** — Meets cOAlition S requirements
+- ✅ **Institutional Repository Compatible** — Accepted by most academic institutions
+- ✅ **Funder Mandate Compliant** — Meets most open access funding requirements
+- ✅ **Wikimedia Compatible** — Compatible with Wikipedia redistribution
 
 ---
 
@@ -187,15 +194,16 @@ The framework supports the following open science practices eligible for badges:
 
 ---
 
-**Project**: AnubisX Framework  
-**Primary Author**: Ahmed Awad (NullC0d3)  
-**Author Profile**: https://www.linkedin.com/in/nullc0d3/  
-**ORCID**: https://orcid.org/0009-0005-0654-3393  
-**Repository**: [https://github.com/nullc0d30/AnubisXFramework](https://github.com/nullc0d30/AnubisXFramework)  
-**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+## Related Documents
 
-**Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.
-Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated. Third-party software, libraries, datasets, and referenced works remain the property of their respective owners and are governed by their own licenses.
+| Document | Description |
+|---|---|
+| [README.md](README.md) | Main repository landing page |
+| [ACADEMIC.md](ACADEMIC.md) | Academic profile and author information |
+| [CITATIONS.md](CITATIONS.md) | Citation formats and examples |
+| [PROJECT_IDENTIFIERS.md](PROJECT_IDENTIFIERS.md) | Centralized identifier reference |
 
+---
 
-*Classification: PUBLIC (C0)*
+**© 2026 Ahmed Awad (NullC0d3). All rights reserved.**  
+*This document represents the official open science statement for the AnubisX Framework.*
