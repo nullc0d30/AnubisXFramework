@@ -6,7 +6,7 @@
 
 **A Scientific Methodology for Behavioral Identity Attribution**
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21393392-blue)](https://doi.org/10.5281/zenodo.21393392)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.21446923-blue)](https://doi.org/10.5281/zenodo.21446923)
 [![Version](https://img.shields.io/badge/Version-3.0.0--Scientific%20Re%20Architecture-brightgreen)](RELEASE_NOTES_v3.0.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GitHub Release](https://img.shields.io/badge/GitHub-Release-blueviolet)](https://github.com/AnubisXFramework/AnubisXFramework/releases)
@@ -22,7 +22,7 @@
 
 The AnubisX Framework is a formal scientific methodology for determining the identity of a human operator from their digital behavioral patterns. Unlike traditional attribution methods that rely on transient technical artifacts — IP addresses, device fingerprints, browser configurations — the framework measures **persistent human cognitive signatures** that are rooted in stable cognitive processing habits.
 
-**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)  
+**DOI:** [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)  
 **Repository:** [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework)
 
 [**ACADEMIC_PROFILE**](ACADEMIC.md) | [**PUBLICATIONS**](PUBLICATIONS.md) | [**RESEARCH_NETWORK**](RESEARCH_NETWORK.md) | [**CITATIONS**](CITATIONS.md) | [**PROJECT_IDENTIFIERS**](PROJECT_IDENTIFIERS.md)
@@ -156,7 +156,7 @@ Ingestion → Feature Extraction → Profile Construction → Comparison → Evi
 
 | Platform | Identifier |
 |---|---|
-| **DOI** | [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
+| **DOI** | [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
 | **ORCID** | [0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
 | **GitHub** | [nullc0d30/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework) |
 | **See also:** | [PROJECT_IDENTIFIERS.md](PROJECT_IDENTIFIERS.md) |
@@ -180,7 +180,7 @@ See [RESEARCH_NETWORK.md](RESEARCH_NETWORK.md) for the complete ecosystem visual
 | Resource | Link |
 |---|---|
 | **GitHub Repository** | [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework) |
-| **Zenodo Archive** | [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
+| **Zenodo Archive** | [https://doi.org/10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
 | **ORCID** | [https://orcid.org/0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
 | **LinkedIn** | [https://www.linkedin.com/in/nullc0d3/](https://www.linkedin.com/in/nullc0d3/) |
 | **ResearchGate** | [Profile](https://www.researchgate.net/profile/Ahmed-Awad-118) |
@@ -224,7 +224,7 @@ If you use the AnubisX Framework in your research, please cite:
   year = {2026},
   version = {2.0.0},
   url = {https://github.com/AnubisXFramework/AnubisXFramework},
-  doi = {10.5281/zenodo.21393392},
+  doi = {10.5281/zenodo.21446923},
   license = {CC-BY-4.0}
 }
 ```
@@ -246,7 +246,7 @@ Full citation examples in [CITATIONS.md](CITATIONS.md).
 
 ## Repository Preservation
 
-- **Primary Archive:** [Zenodo DOI 10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+- **Primary Archive:** [Zenodo DOI 10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)
 - **Secondary Archives:** GitHub, OSF (planned), Figshare
 - **Citation Metadata:** [CITATION.cff](CITATION.cff)
 - **Preservation Policy:** See [ACADEMIC.md](ACADEMIC.md)
@@ -341,3 +341,4 @@ This work is licensed under [Creative Commons Attribution 4.0 International](LIC
 ---
 
 *Classification: PUBLIC (C0)*
+

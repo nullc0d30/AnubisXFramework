@@ -12,7 +12,7 @@
 |---|---|---|
 | **Author** | Ahmed Awad (NullC0d3) | CITATION.cff, README.md |
 | **GitHub Repository** | https://github.com/AnubisXFramework/AnubisXFramework | CITATION.cff |
-| **Zenodo DOI** | 10.5281/zenodo.21393392 | CITATION.cff |
+| **Zenodo DOI** | 10.5281/zenodo.21446923 | CITATION.cff |
 | **ORCID** | https://orcid.org/0009-0005-0654-3393 | CITATION.cff |
 | **LinkedIn** | https://www.linkedin.com/in/nullc0d3/ | README.md |
 | **Reference Book** | https://www.amazon.com/dp/B0H8LCTTWW | README.md |
@@ -68,7 +68,7 @@
 
 **Issue:** `ROADMAP.md`, `CHANGELOG.md`, `FINAL_CITATION_REPORT.md`, `PUBLICATION_READINESS_REPORT.md`, and `PUBLICATION_METADATA_REPORT.md` did not include a DOI reference in their footer blocks.
 
-**Action:** Added `**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)` to each file's footer.
+**Action:** Added `**DOI**: [https://doi.org/10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)` to each file's footer.
 
 ### 5. Missing Copyright and Classification — 2 files fixed
 
@@ -100,7 +100,7 @@
 
 **Issue:** `Documentation/Overview.md` and `ROADMAP.md` contained redundant or malformed DOI text in their body sections (e.g., "This release is permanently archived on Zenodo under DOI: [https://doi.org/...](https://doi.org/...)").
 
-**Action:** Standardized to `**DOI**: [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)` with clean supporting text.
+**Action:** Standardized to `**DOI**: [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)` with clean supporting text.
 
 ### 10. Bold Classification Formatting — 1 file fixed
 
@@ -131,7 +131,7 @@
 | Old Value | New Value | Files Affected |
 |---|---|---|
 | `github.com/anubisx/framework` | `github.com/AnubisXFramework/AnubisXFramework` | PUBLICATION_METADATA_REPORT.md, LICENSE_GUIDE.md |
-| `10.5281/zenodo.21374132` | `10.5281/zenodo.21393392` | Entire repository (132 occurrences) |
+| `10.5281/zenodo.21374132` | `10.5281/zenodo.21446923` | Entire repository (132 occurrences) |
 | `**Owner**: Ahmed Awad (NullC0d3)` | `**Project**: AnubisX Framework` | All 16 Whitepaper/*.md files |
 
 ---
@@ -144,7 +144,7 @@ All 80 public documentation files now reference identical official project metad
 
 - **Author:** Ahmed Awad (NullC0d3) — Independent Cybersecurity Researcher
 - **Repository:** https://github.com/AnubisXFramework/AnubisXFramework
-- **DOI:** 10.5281/zenodo.21393392
+- **DOI:** 10.5281/zenodo.21446923
 - **ORCID:** https://orcid.org/0009-0005-0654-3393
 - **LinkedIn:** https://www.linkedin.com/in/nullc0d3/
 - **Book:** https://www.amazon.com/dp/B0H8LCTTWW
@@ -176,4 +176,5 @@ All 80 public documentation files now reference identical official project metad
 
 *Report generated: 2026-07-16*  
 *Classification: PUBLIC (C0)*
+
 

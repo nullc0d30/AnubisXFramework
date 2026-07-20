@@ -8,7 +8,7 @@ https://github.com/AnubisXFramework/AnubisXFramework
 **Version:** 3.0.0 — Scientific Re-Architecture  
 **Date:** July 2026  
 **License:** CC BY 4.0  
-**DOI:** 10.5281/zenodo.21393392
+**DOI:** 10.5281/zenodo.21446923
 
 ---
 
@@ -1029,4 +1029,5 @@ No values have been fabricated, modified, or imputed. Where discrepancies existe
 - Type-token ratio mean: corrected from 0.405 to 0.834
 
 All corrections are documented in the repository audit trail.
+
 

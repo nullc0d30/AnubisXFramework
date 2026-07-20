@@ -17,7 +17,7 @@ This document serves as the single reference point for all persistent identifier
 | Identifier | Value |
 |---|---|
 | **Repository URL** | [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework) |
-| **Repository DOI** | [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
+| **Repository DOI** | [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
 | **License** | [Creative Commons Attribution 4.0 International](LICENSE.md) |
 | **Current Version** | 2.0.0 — Journal Revision |
 
@@ -27,7 +27,7 @@ This document serves as the single reference point for all persistent identifier
 
 | Identifier | Value |
 |---|---|
-| **DOI** | [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
+| **DOI** | [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
 | **Archive Type** | Software / Repository Snapshot |
 | **Date Recorded** | 2026 |
 | **License** | CC BY 4.0 |
@@ -129,7 +129,7 @@ See [LICENSE.md](LICENSE.md) for complete license text.
 | Version | Date | Description | DOI |
 |---|---|---|---|
 | 1.0.0 | 2024 | Foundational release | N/A |
-| 2.0.0 | 2026-07-16 | Journal revision, 50 references, enhanced validation | [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) |
+| 2.0.0 | 2026-07-16 | Journal revision, 50 references, enhanced validation | [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
 
 ---
 
@@ -140,7 +140,7 @@ See [LICENSE.md](LICENSE.md) for complete license text.
 | Purpose | URL |
 |---|---|
 | **Main Repository** | https://github.com/AnubisXFramework/AnubisXFramework |
-| **Archived Version** | https://doi.org/10.5281/zenodo.21393392 |
+| **Archived Version** | https://doi.org/10.5281/zenodo.21446923 |
 | **Citation File** | https://github.com/AnubisXFramework/AnubisXFramework/blob/main/CITATION.cff |
 | **License** | https://github.com/AnubisXFramework/AnubisXFramework/blob/main/LICENSE.md |
 
@@ -159,7 +159,7 @@ See [LICENSE.md](LICENSE.md) for complete license text.
 ## Quick Reference Card
 
 ```
-DOI:       10.5281/zenodo.21393392
+DOI:       10.5281/zenodo.21446923
 ORCID:     0009-0005-0654-3393
 GitHub:    github.com/AnubisXFramework/AnubisXFramework
 License:   CC BY 4.0
@@ -184,3 +184,4 @@ Author:    Ahmed Awad (NullC0d3)
 
 **© 2026 Ahmed Awad (NullC0d3). All rights reserved.**  
 *This document provides a centralized reference for all persistent identifiers.*
+

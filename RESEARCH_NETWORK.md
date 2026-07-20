@@ -65,7 +65,7 @@ OpenAlex
 - Integration with GitHub releases
 - Long-term preservation guarantee
 
-**URL:** [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+**URL:** [https://doi.org/10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)
 
 **Content:**
 - Archived snapshots of major releases
@@ -203,7 +203,7 @@ OpenAlex
 - Cross-publisher reference resolution
 
 **Content:**
-- Registered DOI: 10.5281/zenodo.21393392
+- Registered DOI: 10.5281/zenodo.21446923
 - Bibliographic metadata
 - Reference relationships
 - Contributor affiliations
@@ -314,3 +314,4 @@ OpenAlex
 
 **© 2026 Ahmed Awad (NullC0d3). All rights reserved.**  
 *This research network diagram illustrates the interconnected academic infrastructure supporting the AnubisX Framework.*
+

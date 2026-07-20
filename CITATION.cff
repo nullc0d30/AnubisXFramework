@@ -12,7 +12,7 @@ authors:
 
 repository-code: "https://github.com/AnubisXFramework/AnubisXFramework"
 
-doi: "10.5281/zenodo.21393392"
+doi: "10.5281/zenodo.21446923"
 
 license: "CC-BY-4.0"
 
@@ -23,7 +23,7 @@ preferred-citation:
     - name: "Ahmed Awad (NullC0d3)"
   year: 2026
   version: "3.0.0"
-  doi: "10.5281/zenodo.21393392"
+  doi: "10.5281/zenodo.21446923"
   url: "https://github.com/AnubisXFramework/AnubisXFramework"
   journal: "TBD (under review preparation)"
 
@@ -119,4 +119,5 @@ references:
   - type: document
     title: "REPOSITORY_AUDIT_REPORT.md"
     url: "https://github.com/AnubisXFramework/AnubisXFramework/blob/main/REPOSITORY_AUDIT_REPORT.md"
+
 

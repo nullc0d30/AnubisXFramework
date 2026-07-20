@@ -7,7 +7,7 @@
 [![Axioms](https://img.shields.io/badge/Axioms-16-8A2BE2)](Axioms/Core_Axioms.md)
 [![Algorithms](https://img.shields.io/badge/Algorithms-37-success)](Algorithms/Algorithm_Catalog.md)
 [![Experiments](https://img.shields.io/badge/Experiments-15%20Executed-brightgreen)](Anubis%20Twitter/reports/experimental_results/Executed_Experiments.md)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21393392-blue)](https://doi.org/10.5281/zenodo.21393392)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21393392-blue)](https://doi.org/10.5281/zenodo.21446923)
 
 ---
 
@@ -136,7 +136,7 @@ If you use the AnubisX Framework in your research, please cite:
   title = {AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution},
   year = {2026},
   url = {https://github.com/AnubisXFramework/AnubisXFramework},
-  doi = {10.5281/zenodo.21393392}
+  doi = {10.5281/zenodo.21446923}
 }
 ```
 
@@ -157,4 +157,5 @@ Original documentation, framework design, algorithms, source code, diagrams, and
 ---
 
 *Classification: PUBLIC (C0)*
+
 

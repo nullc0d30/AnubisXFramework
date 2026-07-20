@@ -89,7 +89,7 @@ All 14 concerns from the initial reviewer response report have been addressed:
 | SN Computer Science (Springer) | Journal | Computer science, security, AI | Medium |
 | Frontiers in Computer Science | Open access journal | AI, security, digital forensics | Medium |
 
-**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+**DOI**: [https://doi.org/10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)
 
 ## Final Verdict
 
@@ -98,4 +98,5 @@ All 14 concerns from the initial reviewer response report have been addressed:
 The manuscript is ready for peer review submission. The two remaining areas for improvement before submission:
 1. Replace figure placeholders with actual figures
 2. Final proofreading pass for typographical errors
+
 

@@ -20,7 +20,7 @@
 
 **Status:** Ready for journal submission
 
-**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+**DOI:** [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)
 
 **Location:** [Journal/AnubisX_Framework_Foundational_Paper_v2.0.md](Journal/AnubisX_Framework_Foundational_Paper_v2.0.md)
 
@@ -32,7 +32,7 @@
   author = {Awad, Ahmed},
   year = {2026},
   version = {2.0.0},
-  doi = {10.5281/zenodo.21393392},
+  doi = {10.5281/zenodo.21446923},
   url = {https://github.com/AnubisXFramework/AnubisXFramework},
   journal = {TBD (under review)}
 }
@@ -160,7 +160,7 @@
 
 - Journal revision v2.0 completion
 - CITATION.cff metadata finalized
-- Zenodo DOI assigned: 10.5281/zenodo.21393392
+- Zenodo DOI assigned: 10.5281/zenodo.21446923
 - Repository audit and publication readiness assessment
 
 ### 2027 (Planned)
@@ -181,7 +181,7 @@
 | Journal Paper | 🔄 In preparation | Awaiting venue selection |
 | Book | ✅ Published | Available on Amazon |
 | Preprint Registration | ⏳ Pending | SSRN/OSF upon selection |
-| DOI Assignment | ✅ Complete | 10.5281/zenodo.21393392 |
+| DOI Assignment | ✅ Complete | 10.5281/zenodo.21446923 |
 
 ---
 
@@ -189,7 +189,7 @@
 
 | Publication | DOI | Type |
 |---|---|---|
-| Framework Repository | [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392) | Software/Repository |
+| Framework Repository | [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) | Software/Repository |
 | Foundational Paper | Same as above | Article/Software |
 | Reference Book | Pending | Book |
 | Supplementary Materials | Pending | Supplementary |
@@ -212,3 +212,4 @@
 
 **© 2026 Ahmed Awad (NullC0d3). All rights reserved.**  
 *All publications are available under CC BY 4.0 unless otherwise specified.*
+

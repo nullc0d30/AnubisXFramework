@@ -5,7 +5,7 @@
 ORCID: https://orcid.org/0009-0005-0654-3393  
 LinkedIn: https://www.linkedin.com/in/nullc0d3/  
 GitHub: https://github.com/AnubisXFramework/AnubisXFramework  
-Zenodo: https://doi.org/10.5281/zenodo.21393392  
+Zenodo: https://doi.org/10.5281/zenodo.21446923  
 
 **Version:** 2.0.0 — Journal Revision  
 **Date:** July 2026  
@@ -658,4 +658,5 @@ None. Independent research without external funding.
 [49] Koppel, M., Schler, J., & Argamon, S. (2011). Authorship attribution in the wild. Language Resources and Evaluation, 45(1), 83–94.
 
 [50] He, X., et al. (2024). Authorship attribution methods, challenges, and future research directions: A comprehensive survey. Information, 15(3), 131.
+
 

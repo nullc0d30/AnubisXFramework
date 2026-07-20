@@ -1,6 +1,6 @@
 # Publication Metadata Report
 
-**AnubisX Framework v2.0.0 — DOI: 10.5281/zenodo.21393392**
+**AnubisX Framework v2.0.0 — DOI: 10.5281/zenodo.21446923**
 
 ---
 
@@ -8,8 +8,8 @@
 
 | Field | Value |
 |-------|-------|
-| **DOI** | 10.5281/zenodo.21393392 |
-| **Persistent URL** | https://doi.org/10.5281/zenodo.21393392 |
+| **DOI** | 10.5281/zenodo.21446923 |
+| **Persistent URL** | https://doi.org/10.5281/zenodo.21446923 |
 | **Version** | 2.0.0 |
 | **Release Date** | 2026-07-15 |
 | **License** | CC-BY-4.0 |
@@ -28,21 +28,21 @@
   author = {Awad, Ahmed},
   year = {2026},
   url = {https://github.com/AnubisXFramework/AnubisXFramework},
-  doi = {10.5281/zenodo.21393392}
+  doi = {10.5281/zenodo.21446923}
 }
 ```
 
 ### APA Style
 
-Awad, A. (2026). *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution* (v2.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21393392
+Awad, A. (2026). *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution* (v2.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21446923
 
 ### MLA Style
 
-Awad, Ahmed. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0, Zenodo, 2026, doi:10.5281/zenodo.21393392.
+Awad, Ahmed. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0, Zenodo, 2026, doi:10.5281/zenodo.21446923.
 
 ### Chicago Style
 
-Awad, Ahmed. 2026. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0. Zenodo. doi:10.5281/zenodo.21393392.
+Awad, Ahmed. 2026. *AnubisX Framework: A Scientific Methodology for Behavioral Identity Attribution*. Version 2.0.0. Zenodo. doi:10.5281/zenodo.21446923.
 
 ---
 
@@ -58,7 +58,7 @@ type: software
 version: 2.0.0
 date-released: 2026-07-15
 url: "https://github.com/AnubisXFramework/AnubisXFramework"
-doi: "10.5281/zenodo.21393392"
+doi: "10.5281/zenodo.21446923"
 license: "CC-BY-4.0"
 ```
 
@@ -85,7 +85,7 @@ The DOI metadata is integrated into:
 **Repository**: [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework)  
 
 
-**DOI**: [https://doi.org/10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+**DOI**: [https://doi.org/10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)
 
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.  
 Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated. Third-party software, libraries, datasets, and referenced works remain the property of their respective owners and are governed by their own licenses.
@@ -93,3 +93,4 @@ Original documentation, framework design, algorithms, source code, diagrams, and
 ---
 
 *Classification: PUBLIC (C0)*
+

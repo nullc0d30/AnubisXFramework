@@ -46,7 +46,7 @@ The ORCID identifier provides a persistent digital identifier for the principal 
 
 ### Zenodo DOI
 
-**DOI:** [10.5281/zenodo.21393392](https://doi.org/10.5281/zenodo.21393392)
+**DOI:** [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)
 
 Archived version of the AnubisX Framework, including all source code, documentation, and experimental results. This DOI represents the canonical citable version of the repository.
 
@@ -150,7 +150,7 @@ Professional profile and research updates.
 
 ### Phase 4: Publication & Archiving (2026)
 
-- Zenodo archive DOI assigned: 10.5281/zenodo.21393392
+- Zenodo archive DOI assigned: 10.5281/zenodo.21446923
 - OSF project creation (pending)
 - ResearchGate profile establishment
 - Journal submission preparation
@@ -205,7 +205,7 @@ Professional profile and research updates.
   year = {2026},
   version = {2.0.0},
   url = {https://github.com/AnubisXFramework/AnubisXFramework},
-  doi = {10.5281/zenodo.21393392},
+  doi = {10.5281/zenodo.21446923},
   license = {CC-BY-4.0}
 }
 ```
@@ -232,7 +232,7 @@ The AnubisX Framework adheres to the principles of open science as outlined in [
 
 ### Long-term Preservation
 
-1. **Zenodo Archive** — Canonical versioned DOI: 10.5281/zenodo.21393392
+1. **Zenodo Archive** — Canonical versioned DOI: 10.5281/zenodo.21446923
 2. **GitHub Repository** — Active development and issue tracking
 3. **OSF Project** — Supplementary materials and preregistrations
 4. **Framework Specification** — Documented in machine-readable formats
@@ -289,3 +289,4 @@ The AnubisX Framework adheres to the principles of open science as outlined in [
 
 **© 2026 Ahmed Awad (NullC0d3). All rights reserved.**  
 *Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated.*
+
