@@ -30,8 +30,9 @@
 | **Primary Author** | Ahmed Awad (NullC0d3) |
 | **Affiliation** | Independent Researcher |
 | **Role** | Creator, Designer, Lead Implementer |
-| **Email** | Available via GitHub and ORCID profiles |
+| **Email** | anubisxframework@gmail.com |
 | **Location** | Egypt |
+| **Website** | [https://ahmedawadresearch.github.io](https://ahmedawadresearch.github.io) |
 | **Domain Expertise** | Digital Forensics, Behavioral Biometrics, NLP, Cybersecurity |
 
 ---
@@ -71,6 +72,8 @@ Central hub for sharing publications, datasets, and research updates.
 ### Figshare
 
 **Figshare Profile:** [https://figshare.com/authors/Ahmed_Awad/24415733](https://figshare.com/authors/Ahmed_Awad/24415733)
+
+**Figshare Figure DOI:** [https://doi.org/10.6084/m9.figshare.33028817](https://doi.org/10.6084/m9.figshare.33028817)
 
 Repository for figures, visual materials, and supplementary datasets.
 

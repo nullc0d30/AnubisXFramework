@@ -4,12 +4,13 @@ title: "AnubisX Framework: A Scientific Methodology for Behavioral Identity Attr
 type: software
 version: 1.0.0
 date-released: 2026-07-15
-url: "https://github.com/anubisx/framework"
+url: "https://github.com/AnubisXFramework/AnubisXFramework"
+contact: "anubisxframework@gmail.com"
 
 authors:
   - name: "AnubisX Research Team"
 
-repository-code: "https://github.com/anubisx/framework"
+repository-code: "https://github.com/AnubisXFramework/AnubisXFramework"
 
 license: "CC-BY-4.0"
 
@@ -40,6 +41,8 @@ abstract: >
   framework shifts digital attribution from transient technical
   artifacts (IP addresses, device fingerprints) to persistent human
   cognitive signatures rooted in stable cognitive processing habits.
+
+doi: "10.5281/zenodo.21446923"
 
 references:
   - type: document

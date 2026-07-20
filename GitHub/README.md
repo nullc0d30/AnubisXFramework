@@ -16,6 +16,7 @@
 The AnubisX Framework is a formal scientific methodology for determining the identity of a human operator from their digital behavioral patterns. Unlike traditional attribution methods that rely on transient technical artifacts — IP addresses, device fingerprints, browser configurations — the framework measures **persistent human cognitive signatures** that are rooted in stable cognitive processing habits.
 
 **Source**: Documentation/Overview.md §1, Theory/Core_Theory.md (THY-001)
+**Figure DOI**: [10.6084/m9.figshare.33028817](https://doi.org/10.6084/m9.figshare.33028817)
 
 The framework is a **complete theoretical specification** with a **validated prototype implementation**. The theoretical layer defines the axiomatic foundation, mathematical formalization, algorithm specifications, validation methodology, benchmark protocols, experiment designs, and case studies. The prototype layer (Anubis Twitter v2.5) implements a subset of the framework's stylometric fingerprinting and similarity search capabilities, with 15 executed experiments producing validated results across 31 Egyptian Twitter accounts.
 
@@ -147,9 +148,13 @@ Machine-readable citation metadata is available in [CITATION.cff](CITATION.cff).
 **Project**: AnubisX Framework  
 **Primary Author**: Ahmed Awad (NullC0d3)  
 **Author Profile**: https://www.linkedin.com/in/nullc0d3/  
+**Author Website**: https://ahmedawadresearch.github.io  
 **Original Framework**: Ahmed Awad (NullC0d3)  
 **Original Research**: Ahmed Awad (NullC0d3)  
 **Repository**: Official AnubisX Repository  
+**Website**: https://anubisxframework.github.io  
+**Mirror**: https://anubisxframework.nullc0d3.workers.dev  
+**Contact**: anubisxframework@gmail.com  
 
 **Copyright** © 2026 Ahmed Awad (NullC0d3). All rights reserved.  
 Original documentation, framework design, algorithms, source code, diagrams, and repository structure are the intellectual work of Ahmed Awad (NullC0d3), unless otherwise indicated. Third-party software, libraries, datasets, and referenced works remain the property of their respective owners and are governed by their own licenses.

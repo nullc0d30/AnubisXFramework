@@ -18,6 +18,8 @@ This document serves as the single reference point for all persistent identifier
 |---|---|
 | **Repository URL** | [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework) |
 | **Repository DOI** | [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
+| **Website** | [https://anubisxframework.github.io](https://anubisxframework.github.io) |
+| **Mirror** | [https://anubisxframework.nullc0d3.workers.dev](https://anubisxframework.nullc0d3.workers.dev) |
 | **License** | [Creative Commons Attribution 4.0 International](LICENSE.md) |
 | **Current Version** | 2.0.0 — Journal Revision |
 
@@ -77,6 +79,7 @@ This document serves as the single reference point for all persistent identifier
 | Identifier | Value |
 |---|---|
 | **Profile URL** | [https://figshare.com/authors/Ahmed_Awad/24415733](https://figshare.com/authors/Ahmed_Awad/24415733) |
+| **Figure DOI** | [https://doi.org/10.6084/m9.figshare.33028817](https://doi.org/10.6084/m9.figshare.33028817) |
 | **Content** | Figures, datasets, supplementary materials |
 
 ---
@@ -140,6 +143,8 @@ See [LICENSE.md](LICENSE.md) for complete license text.
 | Purpose | URL |
 |---|---|
 | **Main Repository** | https://github.com/AnubisXFramework/AnubisXFramework |
+| **Website** | https://anubisxframework.github.io |
+| **Mirror** | https://anubisxframework.nullc0d3.workers.dev |
 | **Archived Version** | https://doi.org/10.5281/zenodo.21446923 |
 | **Citation File** | https://github.com/AnubisXFramework/AnubisXFramework/blob/main/CITATION.cff |
 | **License** | https://github.com/AnubisXFramework/AnubisXFramework/blob/main/LICENSE.md |
@@ -152,6 +157,7 @@ See [LICENSE.md](LICENSE.md) for complete license text.
 | **LinkedIn** | https://www.linkedin.com/in/nullc0d3/ |
 | **ResearchGate** | https://www.researchgate.net/profile/Ahmed-Awad-118 |
 | **Figshare** | https://figshare.com/authors/Ahmed_Awad/24415733 |
+| **Figshare DOI** | https://doi.org/10.6084/m9.figshare.33028817 |
 | **Amazon Book** | https://www.amazon.com/dp/B0H8LCTTWW |
 
 ---
@@ -162,9 +168,12 @@ See [LICENSE.md](LICENSE.md) for complete license text.
 DOI:       10.5281/zenodo.21446923
 ORCID:     0009-0005-0654-3393
 GitHub:    github.com/AnubisXFramework/AnubisXFramework
+Website:   anubisxframework.github.io
+Mirror:    anubisxframework.nullc0d3.workers.dev
 License:   CC BY 4.0
 Version:   2.0.0
 Author:    Ahmed Awad (NullC0d3)
+Contact:   anubisxframework@gmail.com
 ```
 
 ---

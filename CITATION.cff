@@ -24,7 +24,8 @@ preferred-citation:
   year: 2026
   version: "3.0.0"
   doi: "10.5281/zenodo.21446923"
-  url: "https://github.com/AnubisXFramework/AnubisXFramework"
+url: "https://github.com/AnubisXFramework/AnubisXFramework"
+contact: "anubisxframework@gmail.com"
   journal: "TBD (under review preparation)"
 
 keywords:

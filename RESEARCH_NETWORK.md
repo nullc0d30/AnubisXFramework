@@ -45,6 +45,8 @@ OpenAlex
 - Continuous integration for prototype code
 
 **URL:** [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework)
+**Website:** [https://anubisxframework.github.io](https://anubisxframework.github.io)
+**Mirror:** [https://anubisxframework.nullc0d3.workers.dev](https://anubisxframework.nullc0d3.workers.dev)
 
 **Content:**
 - Complete framework specification
@@ -126,12 +128,14 @@ OpenAlex
 - Supplementary file distribution
 
 **Figshare Profile:** [https://figshare.com/authors/Ahmed_Awad/24415733](https://figshare.com/authors/Ahmed_Awad/24415733)
+**Figshare Figure DOI:** [https://doi.org/10.6084/m9.figshare.33028817](https://doi.org/10.6084/m9.figshare.33028817)
 
 **Content:**
 - Framework diagrams and architecture figures
 - Experimental result visualizations
 - Supplementary datasets
 - Presentation materials
+- Published figure: [AnubisX — A Formal Framework for Behavioral Digital Attribution](https://figshare.com/articles/figure/AnubisX_A_Formal_Framework_for_Behavioral_Digital_Attribution/33028817)
 
 ---
 

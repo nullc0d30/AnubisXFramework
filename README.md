@@ -23,12 +23,15 @@
 The AnubisX Framework is a formal scientific methodology for determining the identity of a human operator from their digital behavioral patterns. Unlike traditional attribution methods that rely on transient technical artifacts — IP addresses, device fingerprints, browser configurations — the framework measures **persistent human cognitive signatures** that are rooted in stable cognitive processing habits.
 
 **DOI:** [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923)  
-**Repository:** [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework)
+**Repository:** [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework)  
+**Website:** [https://anubisxframework.github.io](https://anubisxframework.github.io)  
+**Mirror:** [https://anubisxframework.nullc0d3.workers.dev](https://anubisxframework.nullc0d3.workers.dev)
 
 [**ACADEMIC_PROFILE**](ACADEMIC.md) | [**PUBLICATIONS**](PUBLICATIONS.md) | [**RESEARCH_NETWORK**](RESEARCH_NETWORK.md) | [**CITATIONS**](CITATIONS.md) | [**PROJECT_IDENTIFIERS**](PROJECT_IDENTIFIERS.md)
 
 **Original Framework**: Ahmed Awad (NullC0d3)  
-**Original Research**: Ahmed Awad (NullC0d3)
+**Original Research**: Ahmed Awad (NullC0d3)  
+**Author Website:** [https://ahmedawadresearch.github.io](https://ahmedawadresearch.github.io)
 
 ---
 
@@ -159,6 +162,7 @@ Ingestion → Feature Extraction → Profile Construction → Comparison → Evi
 | **DOI** | [10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
 | **ORCID** | [0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
 | **GitHub** | [nullc0d30/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework) |
+| **Figshare** | [10.6084/m9.figshare.33028817](https://doi.org/10.6084/m9.figshare.33028817) |
 | **See also:** | [PROJECT_IDENTIFIERS.md](PROJECT_IDENTIFIERS.md) |
 
 ---
@@ -178,12 +182,16 @@ See [RESEARCH_NETWORK.md](RESEARCH_NETWORK.md) for the complete ecosystem visual
 ## Research Resources
 
 | Resource | Link |
-|---|---|
+|---|---|---|
 | **GitHub Repository** | [https://github.com/AnubisXFramework/AnubisXFramework](https://github.com/AnubisXFramework/AnubisXFramework) |
+| **Website** | [https://anubisxframework.github.io](https://anubisxframework.github.io) |
+| **Mirror** | [https://anubisxframework.nullc0d3.workers.dev](https://anubisxframework.nullc0d3.workers.dev) |
 | **Zenodo Archive** | [https://doi.org/10.5281/zenodo.21446923](https://doi.org/10.5281/zenodo.21446923) |
+| **Figshare** | [https://doi.org/10.6084/m9.figshare.33028817](https://doi.org/10.6084/m9.figshare.33028817) |
 | **ORCID** | [https://orcid.org/0009-0005-0654-3393](https://orcid.org/0009-0005-0654-3393) |
 | **LinkedIn** | [https://www.linkedin.com/in/nullc0d3/](https://www.linkedin.com/in/nullc0d3/) |
-| **ResearchGate** | [Profile](https://www.researchgate.net/profile/Ahmed-Awad-118) |
+| **ResearchGate** | [https://www.researchgate.net/profile/Ahmed-Awad-118](https://www.researchgate.net/profile/Ahmed-Awad-118) |
+| **Contact** | [anubisxframework@gmail.com](mailto:anubisxframework@gmail.com) |
 | **Reference Book** | [You Can Hide Your Name... Not Your Mind](https://www.amazon.com/dp/B0H8LCTTWW) |
 
 ---
